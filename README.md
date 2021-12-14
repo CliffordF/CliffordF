@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CliffordF
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Clifford Frederic
+- 👀 I’m interested in Web developpement and online advertising.
+- 🌱 I’m currently learning web applications.
+- 💞️ I’m looking to collaborate on any project that could help.
+- 📫 You can reach me at: contact@clifforddigitalmarketing.com
 
 <!---
 CliffordF/CliffordF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
