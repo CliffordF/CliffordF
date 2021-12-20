@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clifford Frederic
-- 👀 I’m interested in Web developpement and online advertising.
-- 🌱 I’m currently learning web applications.
-- 💞️ I’m looking to collaborate on any project that could help.
+- 👀 I’m interested in Web developpement and online advertising
+- 🌱 I’m currently learning web applications
+- 💞️ I’m looking to collaborate with other freelancers
 - 📫 You can reach me at: contact@clifforddigitalmarketing.com
 
 <!---
